@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421584207346",
+    "firebase_url": "https://habittracker-62dcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "habittracker-62dcc",
+    "storage_bucket": "habittracker-62dcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421584207346:android:cc45e536f00b1bc3f17f6b",
+        "android_client_info": {
+          "package_name": "com.example.habit_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLLIdGYB7_oD8E6tk9K5iavYdN0tCuD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
