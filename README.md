@@ -1,5 +1,8 @@
 🚀 HabitTracker — Build Habits, One Day at a Time
 
+<h1 align="center">📱 HABIT TRACKER</h1>
+<p align="center"><b>Build Habits. Stay Consistent. Level Up.</b></p>
+
 A simple and beautiful Flutter mobile app that helps users build consistency, track streaks, and develop habits daily.
 
 <p align="left">
